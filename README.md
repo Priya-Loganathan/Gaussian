@@ -24,6 +24,8 @@ RegisterNumber:
 
 ## Output:
 ![gaussian elimination]()
+![Screenshot 2023-01-21 211622](https://user-images.githubusercontent.com/121166075/213874908-1fae0247-f523-4bd9-bcfb-ef8cbfbe4c7e.png)
+
 
 
 ## Result:
